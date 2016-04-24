@@ -1,0 +1,3 @@
+package: github.com/pengzhai/go-there
+import:
+- package: github.com/codegangsta/inject

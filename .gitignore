@@ -1,0 +1,17 @@
+*.out
+*.test
+*.xml
+*.swp
+.idea/
+*.iml
+*.cov
+*.html
+*.log
+*.tmp
+*.csv
+tags
+node_modules
+.tmp/
+.gen/
+/vendor
+**/.DS_Store
